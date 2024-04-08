@@ -8,6 +8,6 @@
 
 This is the mid-term project for the course of `Programming Practices`. My final score for the course is **100/100**.
 
-The original requirement for this project is to draw a picture of trees, houses and mountains with MFC. Meanwhile, I decided to take the challenge to draw the picture in three dimensional and animated manners.
+The original requirement for this project is to draw a picture of trees, houses and mountains with MFC. Meanwhile, I decided to take on further challenges to draw the picture in three dimensional and animated manners.
 
 ## 2. Demo
